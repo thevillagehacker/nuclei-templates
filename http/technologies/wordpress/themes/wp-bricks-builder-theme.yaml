@@ -8,9 +8,13 @@ info:
     - Checks for Bricks Builder Theme versions.
   reference:
     - https://0day.today/exploit/description/39489
+  classification:
+    cpe: cpe:2.3:a:bricksbuilder:bricks:*:*:*:*:wordpress:*:*:*
   metadata:
     verified: true
     max-request: 1
+    vendor: bricksbuilder
+    product: bricks
     publicwww-query: "/wp-content/themes/bricks/"
   tags: wordpress,theme,wp-theme,wp,bricks
 
@@ -34,4 +38,4 @@ http:
       - type: status
         status:
           - 200
-# digest: 4b0a004830460221009c78d037f624ed7c52cb7fdf8a4bf76d529fed8e880d6cbc8ec5e31d5857e38a0221008e34473c003bb6105607aac0fc1397eb9764f9ec081a7114e6f4983d11522afb:922c64590222798bb761d5b6d8e72950
+# digest: 490a00463044022053bbf7a60f45f49f96e303cef4d0ced78f54c24452615f5c0d85f08d38ad8b60022017c1791094d2d2ab1f87ad1a54af563d3826e5502ce58dcacfa1400d0e3cb895:922c64590222798bb761d5b6d8e72950

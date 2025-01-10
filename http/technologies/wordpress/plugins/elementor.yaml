@@ -1,7 +1,7 @@
 id: wordpress-elementor
 
 info:
-  name: Elementor Website Builder – More than Just a Page Builder Detection
+  name: Elementor Website Builder – More Than Just a Page Builder Detection
   author: ricardomaia
   severity: info
   reference:
@@ -46,4 +46,4 @@ http:
         part: body
         regex:
           - '(?i)Stable.tag:\s?([\w.]+)'
-# digest: 4b0a00483046022100e5ed4e2759bf6738ab6700c78107d5caeacf4839105872fa4662a9df17d40f5a022100b418b9b00af7e87bd3dbd6e509329a535937c0d12511c3aed499a87cf7af1581:922c64590222798bb761d5b6d8e72950
+# digest: 4a0a0047304502205dc8f7ff5605baa61bc4cebe691f22ad535f6ff4fa9a7146ea88e207ca5802040221008182876a2b2a8f03a94ef092ad9f058388e072aba16171eba7ad525bedc92092:922c64590222798bb761d5b6d8e72950

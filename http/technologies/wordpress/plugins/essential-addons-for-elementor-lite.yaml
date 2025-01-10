@@ -1,7 +1,7 @@
 id: wordpress-essential-addons-for-elementor-lite
 
 info:
-  name: Essential Addons for Elementor – Best Elementor Addon, Templates, Widgets, Kits & WooCommerce Builders Detection
+  name: Essential Addons for Elementor – Popular Elementor Addon With Ready Templates, Advanced Widgets, Kits & WooCommerce Builders Detection
   author: ricardomaia
   severity: info
   reference:
@@ -46,4 +46,4 @@ http:
         part: body
         regex:
           - '(?i)Stable.tag:\s?([\w.]+)'
-# digest: 4a0a004730450221009e1b93201273200f48613545c634d17774a0822b953eb932dbcec6c290c3d96a02203d155a14561329c9950a4e1087c9af285e9ce800960e3eead7cd85ecd7ce7312:922c64590222798bb761d5b6d8e72950
+# digest: 4b0a0048304602210093eb94ff59dbe4da6d61df419da166edf431c67279cd649aa93a5724c142660a0221009593c5f8433d045f797afe2eff99e53dbd038ed8b156b3c8a2598ab5dc2d8ce0:922c64590222798bb761d5b6d8e72950

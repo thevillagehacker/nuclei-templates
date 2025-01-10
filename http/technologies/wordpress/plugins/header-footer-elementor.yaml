@@ -1,7 +1,7 @@
 id: wordpress-header-footer-elementor
 
 info:
-  name: Elementor Header & Footer Builder Detection
+  name: Ultimate Addons for Elementor (Formerly Elementor Header & Footer Builder) Detection
   author: ricardomaia
   severity: info
   reference:
@@ -46,4 +46,4 @@ http:
         part: body
         regex:
           - '(?i)Stable.tag:\s?([\w.]+)'
-# digest: 4a0a00473045022100ac7f21419ab1023284809bfff0f08977f20ed4ee0ffbce1709017160acd814cf022000beb3c9ec2f17294b95ecf7c08af9dc9e369f469550e8ee450aee560e7017dd:922c64590222798bb761d5b6d8e72950
+# digest: 4a0a0047304502205cb799b3e9babdf4b6c76291001d22105a5ba886cbd9b7bd89d83dc4e38e37d3022100b4a1f712708f0f3cac17bb726eda2435d92d16bab5eed46373a504e3f55ef36f:922c64590222798bb761d5b6d8e72950

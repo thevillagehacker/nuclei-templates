@@ -1,7 +1,7 @@
 id: wordpress-image-optimization
 
 info:
-  name: Image Optimizer by Elementor – Optimize Images and Convert to WebP or AVIF Detection
+  name: Image Optimizer – Optimize Images and Convert to WebP or AVIF Detection
   author: ricardomaia
   severity: info
   reference:
@@ -46,4 +46,4 @@ http:
         part: body
         regex:
           - '(?i)Stable.tag:\s?([\w.]+)'
-# digest: 4a0a00473045022100a6fc0d8c4d844e3fdebff589b47c75025d35659d7f72609ab528b5ca768d9cc4022015e328a48afdb549b66ce52947d4d9f7252ec91dcd26875f1e3c5e3356d1a46d:922c64590222798bb761d5b6d8e72950
+# digest: 4a0a0047304502205765240421ad3d487bad9f575e44a480b92294f925d5b26f9a47dd4cc790a4f2022100ab41aaa44dc0ad28a330ca4391a266c87cee5845262ea3d191526ac4d6997df0:922c64590222798bb761d5b6d8e72950

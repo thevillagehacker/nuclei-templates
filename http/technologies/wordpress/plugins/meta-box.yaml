@@ -1,7 +1,7 @@
 id: wordpress-meta-box
 
 info:
-  name: Meta Box – WordPress Custom Fields Framework Detection
+  name: Meta Box Detection
   author: ricardomaia
   severity: info
   reference:
@@ -46,4 +46,4 @@ http:
         part: body
         regex:
           - '(?i)Stable.tag:\s?([\w.]+)'
-# digest: 490a0046304402205ece7087eb761f0105621f32bee9bc1cf9425756810b99b06177e5f8099e583402200a48849740111bb86155c5b7887a27870474cacb3f8ccf08ed127407028d315b:922c64590222798bb761d5b6d8e72950
+# digest: 4a0a00473045022050648fa8ac448c09ab8cdeb3ab325dd8c6aebab85774b0d14705db3591a460d1022100ea0ce01e5cd1399a598f6053f10cb6d1a71519f200fe522aab828690a75a8fa5:922c64590222798bb761d5b6d8e72950
